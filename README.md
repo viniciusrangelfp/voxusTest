@@ -4,9 +4,10 @@ The base of this application it's a mini framework using resources as dependency
 This is a very sample version of some technique.
 
 ## Dependecies
-- PHP7.4
+- PHP 7.4
 - Composer
-- SQlite
+- SQlite3
+- PDO
 
 ## How to run
 
