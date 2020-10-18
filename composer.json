@@ -20,8 +20,7 @@
         "start": "php -S localhost:8000 -t public",
         "test": "vendor/bin/phpunit",
         "post-update-cmd": [
-            "composer dump-autoload",
-            "vendor/bin/phinx migrate"
+            "composer dump-autoload"
         ]
     },
     "config": {
